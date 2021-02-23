@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+div{
+    width: 500px;
+height: 650px;
+margin: auto;
+border-radius: 12px;
+background-color: antiquewhite;
+margin-top: auto;
+}

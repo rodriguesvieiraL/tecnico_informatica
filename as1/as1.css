@@ -1,0 +1,9 @@
+body{background-color: aqua;}
+div{
+    width:500px ;
+    height: 600px;
+    background-color: antiquewhite;
+margin: auto;
+border-radius: 12px;text-align: center;
+
+}

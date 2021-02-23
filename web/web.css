@@ -1,0 +1,8 @@
+body{background-color: brown;}
+div{
+    width: 500px;
+    height: 650px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    margin: auto;
+}
