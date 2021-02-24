@@ -1,9 +1,13 @@
 body{background-color: aqua;}
 div{
-    width:500px ;
-    height: 600px;
+    width: 400px; 
+    height: 200px;
     background-color: antiquewhite;
-margin: auto;
+margin:100px auto;
 border-radius: 12px;text-align: center;
-
+}
+img{
+    display: block; 
+    margin: auto;
+    width: auto;
 }
