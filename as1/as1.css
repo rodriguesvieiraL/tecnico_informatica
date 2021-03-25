@@ -11,3 +11,7 @@ img{
     margin: auto;
     width: auto;
 }
+a{
+    text-decoration: none;
+    color: black;
+}

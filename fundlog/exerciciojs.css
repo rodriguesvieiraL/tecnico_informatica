@@ -1,0 +1,25 @@
+
+            body {
+                background-color: crimson;
+            }
+
+            h1 {
+                text-align: center;
+            }
+
+            input {
+                display: block;
+                margin: auto;
+            }
+    
+div{ background-color: azure;
+width: 300px;
+height: 500px;
+margin: auto;
+border-radius: 20px;
+}
+    
+   p{
+       font-size: 60px;
+       text-align: center;
+   }
