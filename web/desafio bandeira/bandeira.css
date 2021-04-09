@@ -1,0 +1,30 @@
+body{background-color:purple}
+
+
+#um{ background-color:red;height: 70px;width: 400px;margin: auto;
+border-top: solid 70px black;
+border-bottom: solid 70px yellow; 
+margin-top: 30px;}
+
+#quatro{
+    height: 210px;
+    width: 133px;    
+    border-left:solid 133px green;
+border-right: solid red 133px;
+    background-color: white;
+margin: auto;
+margin-top: 30px;
+}
+#cinco{
+    height: 0px;
+ width:  300px;
+ background-color: white;   
+ border-bottom:solid 100px red ;
+border-right:solid 0px gray;
+border-top: solid 100px blue;
+border-left: solid 100px white ;
+margin: auto;
+margin-top: 30px;
+}
+
+
